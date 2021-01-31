@@ -1,0 +1,1 @@
+<?php if(get_option('mdx_version_commit')!='2.0.0.1ae12d6'){update_option('mdx_version', '2.0.0');update_option('mdx_new_ver', '2.0.0');update_option('mdx_version_commit', '2.0.0.1ae12d6');}?>
